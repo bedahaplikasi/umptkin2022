@@ -11,4 +11,4 @@ tes-ssebackend.um-ptkin.ac.id <br>
 sse-backend.um-ptkin.ac.id <br>
 sse-static.um-ptkin.ac.id
 
-Lihat di branch main
+Lihat di branch master
